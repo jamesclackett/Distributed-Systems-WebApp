@@ -16,3 +16,9 @@ Our written [report](https://github.com/harryocleirigh/distributed-systems-proje
 
 ## Link to Video
 Our video [demo](https://github.com/harryocleirigh/distributed-systems-project/blob/production/Distributed%20System%20-%20Final%20Project%20Video%20Submission.mp4)
+
+## Hosted:
+
+At http://www.service-aggregator.online/
+
+Please be aware that due to cost constraints the project is hosted on a single AWS EC2 and not on a distributed cluster. This site is simply a proof of concept.
